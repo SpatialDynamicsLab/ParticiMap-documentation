@@ -26,3 +26,5 @@ To contribute a new Place to a Map, follow these steps:
 * The geosurvey will also display an approximate geocoded Address that is automatically generated.
 * This address is submitted as a complementary reference to the precise geographic coordinates of the Place.
 
+![Map Example](images/ParticiMap_Mapping_a_New_Place.png)
+
