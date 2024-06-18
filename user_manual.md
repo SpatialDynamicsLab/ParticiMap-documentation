@@ -1,7 +1,7 @@
 # ParticiMap User Documentation
 ---
 
-## How to Explore Maps
+## How to explore Maps?
 
 The ParticiMap tool facilitates geographic surveys to collect Places by local communities and stakeholders using a Map as the main interface. To explore the Maps created follow these steps:
 
@@ -10,7 +10,7 @@ The ParticiMap tool facilitates geographic surveys to collect Places by local co
 3. Use the sidebar functionality—**Filter by Pilot Community**—to select Maps from "Elfsina," "Balina," or "Milano."
 4. Each Map is displayed as a card with information and a button to view the selected Map.
 
-## Mapping a New Place: How Can I Contribute to a Map?
+## Mapping a new Place: How can I contribute to a Map?
 
 To contribute a new Place to a Map, follow these steps:
 
@@ -27,4 +27,6 @@ To contribute a new Place to a Map, follow these steps:
 * This address is submitted as a complementary reference to the precise geographic coordinates of the Place.
 
 ![Map Example](images/ParticiMap_Mapping_a_New_Place.png)
+
+## How to create a Map and design a Geosurvey for  data collection?
 
