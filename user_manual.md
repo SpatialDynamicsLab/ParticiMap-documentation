@@ -72,7 +72,7 @@ Only authenticated users can create Maps. Therefore, you need to create an accou
 3. **Center Your Map**:
    - Drag the map to position the crosshair at the desired location.
    - Click the **Save Map Center** button to continue.
-   
+
    ![Create Map 3](images/ParticiMap_Create_Map_3.png)
 
 4. **Add Place Categories**:
@@ -100,13 +100,15 @@ Only authenticated users can create Maps. Therefore, you need to create an accou
      - **Dropdown (single select)**
      - **Option buttons (single select)**
      - **Check group (multiple selections)**
-     
+   - Check the checkbox if you want a question to be optional to answer.
+   
    ![Create Map 8](images/ParticiMap_Create_Map_Data_Input_Types.png)
 
    **Examples**:
    - For dropdowns, option buttons, or check groups, enter a list of options.
    
    ![Create Map 6](images/ParticiMap_Create_Map_6.png)
+   
    ![Create Map 7](images/ParticiMap_Create_Map_7.png)
 
    - Click **Save and Add Another** for each question you want to add to your Geosurvey.
